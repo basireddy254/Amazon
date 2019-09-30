@@ -1,0 +1,6 @@
+#Mon Sep 30 10:02:52 IST 2019
+context=NONINSTRUMENTED
+json={"id"\:"signInSubmit","dumpElementType"\:"NONINSTRUMENTED","x"\:99,"y"\:1275,"width"\:882,"height"\:138,"onScreen"\:true,"uniqueKeys"\:"id,text,resource-id","package"\:"com.amazon.mShop.android.shopping","hidden"\:"false","checkable"\:"false","knownSuperClass"\:"android.widget.Button","clickable"\:"true","index"\:"0","focusable"\:"true","enabled"\:"true","resource-id"\:"signInSubmit","longClickable"\:"false","password"\:"false","top"\:"true","focused"\:"false","bounds"\:"[99,1275][981,1413]","long-clickable"\:"false","text"\:"Sign-In","class"\:"android.widget.Button","scrollable"\:"false","selected"\:"false"}
+page=User
+by=id
+expression=signInSubmit

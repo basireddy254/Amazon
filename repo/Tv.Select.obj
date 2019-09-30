@@ -1,0 +1,6 @@
+#Mon Sep 30 10:17:26 IST 2019
+context=NONINSTRUMENTED
+json={"dumpElementType"\:"NONINSTRUMENTED","x"\:375,"y"\:945,"width"\:681,"height"\:417,"onScreen"\:true,"uniqueKeys"\:"index,text","package"\:"com.amazon.mShop.android.shopping","hidden"\:"false","checkable"\:"false","knownSuperClass"\:"android.view.View","clickable"\:"true","index"\:"20","focusable"\:"true","enabled"\:"true","longClickable"\:"false","password"\:"false","top"\:"true","focused"\:"false","bounds"\:"[375,945][1056,1362]","long-clickable"\:"false","text"\:"Seiki 65 inches 4K Ultra HD Smart Netflix and YouTube LED TV $899.00 Amazon Prime Get it by Friday, October 4 FREE Delivery by Amazon","class"\:"android.view.View","scrollable"\:"false","selected"\:"false"}
+page=Tv
+by=xpath
+expression=//*[@text\='Seiki 65 inches 4K Ultra HD Smart Netflix and YouTube LED TV $899.00 Amazon Prime Get it by Friday, October 4 FREE Delivery by Amazon']

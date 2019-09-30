@@ -1,0 +1,6 @@
+#Mon Sep 30 10:02:10 IST 2019
+context=NONINSTRUMENTED
+json={"id"\:"ap_email_login","dumpElementType"\:"NONINSTRUMENTED","x"\:99,"y"\:669,"width"\:882,"height"\:132,"onScreen"\:true,"uniqueKeys"\:"id,resource-id","package"\:"com.amazon.mShop.android.shopping","hidden"\:"false","checkable"\:"false","knownSuperClass"\:"android.widget.EditText","clickable"\:"true","index"\:"1","focusable"\:"true","enabled"\:"true","resource-id"\:"ap_email_login","longClickable"\:"false","password"\:"false","top"\:"true","focused"\:"true","bounds"\:"[99,669][981,801]","long-clickable"\:"false","class"\:"android.widget.EditText","scrollable"\:"false","selected"\:"false"}
+page=User
+by=id
+expression=ap_email_login

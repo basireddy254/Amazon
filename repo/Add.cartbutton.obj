@@ -1,0 +1,6 @@
+#Mon Sep 30 10:28:25 IST 2019
+context=NONINSTRUMENTED
+json={"id"\:"add-to-cart-button","dumpElementType"\:"NONINSTRUMENTED","x"\:45,"y"\:1578,"width"\:990,"height"\:138,"onScreen"\:true,"uniqueKeys"\:"id,text,resource-id","package"\:"com.amazon.mShop.android.shopping","hidden"\:"false","checkable"\:"false","knownSuperClass"\:"android.widget.Button","clickable"\:"true","index"\:"1","focusable"\:"true","enabled"\:"true","resource-id"\:"add-to-cart-button","longClickable"\:"false","password"\:"false","top"\:"true","focused"\:"false","bounds"\:"[45,1578][1035,1716]","long-clickable"\:"false","text"\:"Add to Cart","class"\:"android.widget.Button","scrollable"\:"false","selected"\:"false"}
+page=Add
+by=id
+expression=add-to-cart-button

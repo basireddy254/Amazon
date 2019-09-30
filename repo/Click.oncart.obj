@@ -1,0 +1,6 @@
+#Mon Sep 30 10:31:44 IST 2019
+context=NONINSTRUMENTED
+json={"id"\:"action_bar_cart_image","dumpElementType"\:"NONINSTRUMENTED","x"\:931,"y"\:111,"width"\:123,"height"\:90,"onScreen"\:true,"uniqueKeys"\:"id,contentDescription,content-desc,resource-id","package"\:"com.amazon.mShop.android.shopping","hidden"\:"false","checkable"\:"false","knownSuperClass"\:"android.widget.ImageView","clickable"\:"false","content-desc"\:"Basket","index"\:"0","focusable"\:"false","enabled"\:"true","resource-id"\:"com.amazon.mShop.android.shopping\:id/action_bar_cart_image","longClickable"\:"false","password"\:"false","top"\:"true","contentDescription"\:"Basket","bounds"\:"[931,111][1054,201]","long-clickable"\:"false","class"\:"android.widget.ImageView","scrollable"\:"false","selected"\:"false"}
+page=Click
+by=id
+expression=action_bar_cart_image

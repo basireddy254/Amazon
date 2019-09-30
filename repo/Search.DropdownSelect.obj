@@ -1,0 +1,6 @@
+#Mon Sep 30 10:09:56 IST 2019
+context=NONINSTRUMENTED
+json={"id"\:"iss_search_dropdown_item_text_layout","dumpElementType"\:"NONINSTRUMENTED","x"\:18,"y"\:440,"width"\:930,"height"\:73,"onScreen"\:true,"package"\:"com.amazon.mShop.android.shopping","hidden"\:"false","checkable"\:"false","knownSuperClass"\:"android.widget.LinearLayout","clickable"\:"false","index"\:"0","focusable"\:"false","enabled"\:"true","resource-id"\:"com.amazon.mShop.android.shopping\:id/iss_search_dropdown_item_text_layout","longClickable"\:"false","password"\:"false","top"\:"false","bounds"\:"[18,440][948,513]","long-clickable"\:"false","class"\:"android.widget.LinearLayout","scrollable"\:"false","selected"\:"false"}
+page=Search
+by=id
+expression=iss_search_dropdown_item_text_layout
