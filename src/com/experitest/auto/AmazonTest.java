@@ -37,8 +37,8 @@ public class AmazonTest extends BaseTest {
 		dc.setCapability("testName", "AmazonTest");
 		driver = new AndroidDriver<>(new URL(getProperty("url", cloudProperties) + "/wd/hub"), dc);
 	}
-
-	@Test
+ 
+	@Test 
 	public void test() throws Exception {
 
 		// Amazon App Open And Select country AUS
