@@ -49,7 +49,7 @@ public class AmazonTest extends BaseTest {
 		driver.findElement(in.Repo.obj("Country.AUS")).click();
 		driver.findElement(in.Repo.obj("AUS.Done")).click();
 
-		// Signin Application
+		// Signin Application 
 		driver.findElement(in.Repo.obj("Signin.BUTTON")).click();
 		driver.findElement(in.Repo.obj("User.Name")).sendKeys("XXXXXX");
 		driver.findElement(in.Repo.obj("User.password")).sendKeys("XXXXXX");
