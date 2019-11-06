@@ -1,0 +1,6 @@
+#Wed Nov 06 21:02:45 IST 2019
+context=NONINSTRUMENTED
+json={"id"\:"rs_search_src_text","dumpElementType"\:"NONINSTRUMENTED","x"\:24,"y"\:264,"width"\:1032,"height"\:126,"onScreen"\:true,"uniqueKeys"\:"id,long-clickable,text,class,knownSuperClass,resource-id,longClickable","package"\:"com.amazon.mShop.android.shopping","hidden"\:"false","checkable"\:"false","knownSuperClass"\:"android.widget.EditText","clickable"\:"true","index"\:"0","focusable"\:"false","enabled"\:"true","resource-id"\:"com.amazon.mShop.android.shopping\:id/rs_search_src_text","longClickable"\:"true","password"\:"false","top"\:"true","bounds"\:"[24,264][1056,390]","long-clickable"\:"true","text"\:"What are you looking for?","class"\:"android.widget.EditText","scrollable"\:"false","selected"\:"false"}
+page=SearchField
+by=id
+expression=rs_search_src_text
