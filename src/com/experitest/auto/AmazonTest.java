@@ -89,7 +89,7 @@ public class AmazonTest extends BaseTest {
 		// Open Cart
 		driver.findElement(in.Repo.obj("Click.oncart")).click();
 
-	}
+	} 
 
 	@AfterMethod
 	public void tearDown() {
