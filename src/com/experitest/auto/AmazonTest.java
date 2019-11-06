@@ -78,7 +78,7 @@ public class AmazonTest extends BaseTest {
 		TV65.click();
 
 		// capture screenshot of TV
-		BrowserUtils.captureScreenshot(driver, "tv");
+		BrowserUtils.captureScreenshot(driver, "tv"); 
 
 		// Scroll upto addcart button and Click
 		WebElement Addcart = driver.findElement(in.Repo.obj("Add.cartbutton"));
