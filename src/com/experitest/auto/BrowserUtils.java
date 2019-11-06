@@ -10,7 +10,7 @@ import org.openqa.selenium.WebDriver;
 
 public class BrowserUtils extends BaseTest {
 	static TakesScreenshot ts;
-	static File image;
+	static File image; 
 	
 	public static void captureScreenshot(WebDriver ob,String imageName) throws IOException {
 		ts = (TakesScreenshot)ob;

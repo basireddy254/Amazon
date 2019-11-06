@@ -84,7 +84,7 @@ public class AmazonTest extends BaseTest {
 		WebElement Addcart = driver.findElement(in.Repo.obj("Add.cartbutton"));
 		action.scroll(Addcart, 45, 1578);
 		action.perform();
-		Addcart.click();
+		Addcart.click(); 
 
 		// Open Cart
 		driver.findElement(in.Repo.obj("Click.oncart")).click();
