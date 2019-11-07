@@ -58,7 +58,7 @@ public class AmazonTest extends BaseTest {
 		// in Search field enter and Search for 65" TV
 		WebElement Search = driver.findElement(in.Repo.obj("SearchField.Search"));
 		String searchText = driver.findElement(in.Repo.obj("SearchField.rs_search_src_text")).getText();
-		
+		 
 		//Assert search placeholder
 		Assert.assertEquals(searchText, "What are you looking for?");
 

@@ -18,7 +18,7 @@ public class BaseTest {
 		if (adhocDeviceQuery != null) {
 			System.out.println("[INFO] Redirecting test to the current device.");
 			deviceQuery = adhocDeviceQuery;
-		}
+		} 
 		dc.setCapability("deviceQuery", deviceQuery);
 		dc.setCapability("reportDirectory", "reports");
 		dc.setCapability("reportFormat", "xml");
